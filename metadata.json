@@ -1,0 +1,5 @@
+{
+  "name": "Authentic Samachar AI",
+  "description": "A real-time AI-powered fake news detector using Gemini Flash to verify news authenticity with detailed reasoning.",
+  "requestFramePermissions": []
+}
